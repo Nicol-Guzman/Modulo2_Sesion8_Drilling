@@ -1,5 +1,5 @@
 # MODULO 2 - SESION 8
-### Rebound Exercise
+### Drilling
 
 Drilling de la Sesión 8 del Módulo 2.
 
